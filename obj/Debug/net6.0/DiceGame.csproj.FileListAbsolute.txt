@@ -1,0 +1,15 @@
+/home/valdrigh/Documents/dotnet/DiceGame/bin/Debug/net6.0/DiceGame
+/home/valdrigh/Documents/dotnet/DiceGame/bin/Debug/net6.0/DiceGame.deps.json
+/home/valdrigh/Documents/dotnet/DiceGame/bin/Debug/net6.0/DiceGame.runtimeconfig.json
+/home/valdrigh/Documents/dotnet/DiceGame/bin/Debug/net6.0/DiceGame.dll
+/home/valdrigh/Documents/dotnet/DiceGame/bin/Debug/net6.0/DiceGame.pdb
+/home/valdrigh/Documents/dotnet/DiceGame/obj/Debug/net6.0/DiceGame.csproj.AssemblyReference.cache
+/home/valdrigh/Documents/dotnet/DiceGame/obj/Debug/net6.0/DiceGame.GeneratedMSBuildEditorConfig.editorconfig
+/home/valdrigh/Documents/dotnet/DiceGame/obj/Debug/net6.0/DiceGame.AssemblyInfoInputs.cache
+/home/valdrigh/Documents/dotnet/DiceGame/obj/Debug/net6.0/DiceGame.AssemblyInfo.cs
+/home/valdrigh/Documents/dotnet/DiceGame/obj/Debug/net6.0/DiceGame.csproj.CoreCompileInputs.cache
+/home/valdrigh/Documents/dotnet/DiceGame/obj/Debug/net6.0/DiceGame.dll
+/home/valdrigh/Documents/dotnet/DiceGame/obj/Debug/net6.0/refint/DiceGame.dll
+/home/valdrigh/Documents/dotnet/DiceGame/obj/Debug/net6.0/DiceGame.pdb
+/home/valdrigh/Documents/dotnet/DiceGame/obj/Debug/net6.0/DiceGame.genruntimeconfig.cache
+/home/valdrigh/Documents/dotnet/DiceGame/obj/Debug/net6.0/ref/DiceGame.dll
